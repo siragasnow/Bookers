@@ -94,3 +94,7 @@ label {
 .field, .action {
 	margin-bottom: 10px;
 }
+
+#notice {
+	color: green;
+}
